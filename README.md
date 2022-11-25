@@ -1,2 +1,3 @@
 # elements-reference-app-backend
-Backend-proxy for Affinidi CLI reference app.
+
+## Affinidi Elements. Backend-proxy-service for Reference Application
