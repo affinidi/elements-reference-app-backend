@@ -1,0 +1,12 @@
+node_modules
+dist
+.history
+.idea
+src/routes/routes.ts
+coverage
+.env
+.nyc_output
+.npmrc
+.terragrunt-cache
+.terraform.lock.hcl
+.project
